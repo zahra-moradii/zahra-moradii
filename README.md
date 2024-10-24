@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi 👋, I'm Zahra Moradi<br>I 💙 to work from Backend Logic to Frontend Magic<br>🔭 I’m currently working on Yada<br>🌱 I’m currently learning **Next.js - Nest.js
 
 
